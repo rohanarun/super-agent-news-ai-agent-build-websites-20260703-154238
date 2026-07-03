@@ -1,0 +1,61 @@
+{
+  "citations": [
+    "[hostinger.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzcxeGZpZVE2STJ4ckJ1Q3ZzOFhIeHRoVzJMa2tFT2RrY2xGZzdLX08tb1hDbWU5N1VnN1ZfTUxrYmNOekd0Ukl4ZE8wSngzdG53UkF5NTZrVVF1QTFSTzAtRFNvMjNkdF9zWjE4WlpuWjh6UU1xLXNTZlJKd3dvWFdTUng?oc=5)",
+    "[techcrunch.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWdvVFpCTzhOSno4ckZnZFF6MWZYV3puSDVydV9uaHZlaklsbHE5bklaQ2RRYmxfMkd1VTJDZi1GSEljV2NDU2U5Y01UZTF3cGZub0pJdzRnR0xBNERNZDNFWmdBSU1hb2dhM1FJd3llR19YMGl0UkluRFpldXhEUnRpVTBKb0t4amUtOVNLQ0ZYOWNnaDlKU2VyNE5GNjRNMWpIWmlTaHVyZTZYYTRUY19zRWo3S21T?oc=5)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wLWRhRElRRzRLcXFHUVFnUjFrM3RwaEZuODh4clhnWlBPXzM0a1czeFljaVVVOEdGc1RycVFyY1NscUJ0SnNtNzBQeW84VFFoOEZQQlZ4b3B6Zw?oc=5)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWx0ei1mNUZIYndpZjhOZlk1ZTJROUgwX1VmYnQ5SDlZZ2xxZWgyTG96aFhDRkpUWXhwWmxxQnN2NUpkZFNmQ3hsNVFBdlRaekl2MzAxbzBSbVlxbnBWLUduOFVhVDctbUVCTjVnVnBiSnBYbWlMTHhNTmF4bnk4NEh4TWhpQUk5ZVFTcS01R2NSeXBwcDFRWVc2cTF3QXAzSmRiRGNLLTZqQQ?oc=5)",
+    "[ranknibbler.com](https://www.ranknibbler.com/how-to-create-faq-schema)"
+  ],
+  "design_plan": "rng=42; AIDA pass; hero max-width\u22481120px; bento density verified (grid-auto-flow:dense); visible FAQ authored first then mirrored verbatim into FAQPage JSON-LD; BreadcrumbList Home>Use cases>AI agent to build websites; label sweep complete; button contrast AA+; animations guarded.",
+  "generated_at": "2026-07-03T15:42:45.028588+00:00",
+  "headline": "AI agent to build websites \u2014 research, generate, deploy, and iterate with real computer use",
+  "site_brief": {
+    "audience": "founders, operators, and creators who want an AI agent to build and publish websites",
+    "canonical_url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'AI agent to build websites', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI agent build websites",
+      "AI website builder agent",
+      "AI agent GitHub deploy website",
+      "computer use AI website generation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "ai-agent-build-websites",
+    "title": "AI agent to build websites",
+    "use_case_intent": "show how Super can research, generate, push to GitHub, publish, and iterate website assets with real computer-use workflows"
+  },
+  "summary": "An indexable use\u2011case page showing how Super acts as an AI agent to build websites end\u2011to\u2011end: research, generate code, push to GitHub, publish, and iterate using real computer control and a reusable computer-use cache. Includes concrete workflow steps, examples, competitor context, visible FAQs with matching JSON\u2011LD, BreadcrumbList schema, and internal links across the use\u2011case cluster."
+}
